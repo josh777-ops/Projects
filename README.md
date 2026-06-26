@@ -212,7 +212,7 @@ LinkedIn: https://www.linkedin.com/in/joshua-kotze-sa/
 
 ## 📜 License
 
-This project was developed for educational purposes as part of the HyperionDev Software Engineering Bootcamp Capstone Project.
+This project was developed for educational purposes as part of the HyperionDev Data Science Bootcamp Capstone Project.
 
 ---
 
